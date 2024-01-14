@@ -19,6 +19,9 @@ like this：https://arxiv.org/abs/2010.11929    ->   https://ar5iv.org/abs/2010.
 [mathpix snipping tool](https://mathpix.com/snipping-tool) : 好用，截屏自动生成latex公式，付费      
 ![image](https://github.com/HWH-2000/Awesome-research-tools/assets/51227660/be237d3c-41c2-4505-aad9-815b3c2ff73b)   
 
+**chatGPT4.0**: 直接输入图片让chatGPT生成latex公式      
+![image](https://github.com/HWH-2000/Awesome-research-tools/assets/51227660/e14fada7-704e-44c2-8bd0-039d92e16cd1)
+
 ## Writing paper
 [投稿之前的写作Tip](https://github.com/MLNLP-World/Paper-Writing-Tips)
 
