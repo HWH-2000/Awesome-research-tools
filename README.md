@@ -31,7 +31,7 @@ like this：https://arxiv.org/abs/2010.11929    ->   https://ar5iv.org/abs/2010.
 [zeteroz中文社区](https://plugins.zotero-chinese.com/#/)：配合zetero使用的各种插件
 
 ## Google scholar
-scholar显示CCF rank 和h-index
-![image](https://github.com/HWH-2000/Awesome-research-tools/assets/51227660/86b3e84b-c1bc-4a5c-bbc9-530a43c1b582)
-[Rapid Journal Quality Check](https://chromewebstore.google.com/detail/rapid-journal-quality-che/mfkbhgdamgfcifnhcdebfahkgnbkagmo)      
-[CCFrank](https://chromewebstore.google.com/detail/ccfrank/pfcajmbenomfbjnbjhgbnbdjmiklnkie?hl=zh-CN)    
+scholar显示CCF rank 和h-index      
+![image](https://github.com/HWH-2000/Awesome-research-tools/assets/51227660/86b3e84b-c1bc-4a5c-bbc9-530a43c1b582)         
+[Rapid Journal Quality Check](https://chromewebstore.google.com/detail/rapid-journal-quality-che/mfkbhgdamgfcifnhcdebfahkgnbkagmo)        
+[CCFrank](https://chromewebstore.google.com/detail/ccfrank/pfcajmbenomfbjnbjhgbnbdjmiklnkie?hl=zh-CN)       
