@@ -5,13 +5,19 @@
 like this：https://arxiv.org/abs/2010.11929    ->   https://ar5iv.org/abs/2010.11929
 
 ## Paper drawing
-两个配色网站，用来绘图
-[colordrop](https://colordrop.io/)   
+两个配色网站，用来绘图     
+[colordrop](https://colordrop.io/)     
+![image](https://github.com/HWH-2000/Awesome-research-tools/assets/51227660/b2231511-f9fb-49cb-837b-bc9613d59b2a)
 
-[culrs](https://culrs.com/#/)
+[culrs](https://culrs.com/#/)      
+![image](https://github.com/HWH-2000/Awesome-research-tools/assets/51227660/a1226fad-4843-408a-b611-8d7443b8fd16)
 
 ## Latex
-[latex 公式编辑器](https://www.latexlive.com/##)
+[latex 公式编辑器](https://www.latexlive.com/##)   
+![image](https://github.com/HWH-2000/Awesome-research-tools/assets/51227660/019c2b95-d50b-42cf-99a2-f204536fce6d)   
+   
+[mathpix snipping tool](https://mathpix.com/snipping-tool) : 好用，截屏自动生成latex公式，付费      
+![image](https://github.com/HWH-2000/Awesome-research-tools/assets/51227660/be237d3c-41c2-4505-aad9-815b3c2ff73b)   
 
 ## Writing paper
 [投稿之前的写作Tip](https://github.com/MLNLP-World/Paper-Writing-Tips)
