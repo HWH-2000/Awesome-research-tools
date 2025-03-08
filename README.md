@@ -28,7 +28,13 @@ like this：https://arxiv.org/abs/2010.11929    ->   https://ar5iv.org/abs/2010.
 ![image](https://github.com/HWH-2000/Awesome-research-tools/assets/51227660/e14fada7-704e-44c2-8bd0-039d92e16cd1)
 
 ## Writing paper
-[投稿之前的写作Tip](https://github.com/MLNLP-World/Paper-Writing-Tips)
+[投稿之前的写作Tip](https://github.com/MLNLP-World/Paper-Writing-Tips)             
+
+               
+[ccf ddl时间](https://ccfddl.top/)              
+[ccf ddl时间2](https://ccfddl.com/)           
+                  
+[AOE时间](https://time.is/Anywhere_on_Earth)                  
 
 ## Note-taking tools
 [飞书文档](https://www.feishu.cn/product/docs)：免费，登录设备无数量限制，且支持简单的markdown格式
