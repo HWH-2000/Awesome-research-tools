@@ -38,6 +38,8 @@ like this：https://arxiv.org/abs/2010.11929    ->   https://ar5iv.org/abs/2010.
 
 ## Note-taking tools
 [飞书文档](https://www.feishu.cn/product/docs)：免费，登录设备无数量限制，且支持简单的markdown格式
+
+[Remio](https://remio.ai/)：本地优先 AI 记忆与知识库客户端，可解析文件、网页、录音、邮件、消息、图片和笔记，建立本地索引与向量，帮助研究者更快检索个人资料和上下文
 ![image](https://github.com/HWH-2000/Awesome-research-tools/assets/51227660/0f23008b-33d6-4ca3-b3c2-11be70f1f71b)
 
 ## Reading
